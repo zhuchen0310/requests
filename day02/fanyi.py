@@ -15,10 +15,13 @@ class BaiDuFanYi(object):
         }
         self.url = 'http://fanyi.baidu.com/v2transapi'
 
-    def get_post_data(self):  # 构造form data
+    def get_post_data(self,lang_type):  # 构造form data
+
+        to_type = 'en' if lang_type =='zh' else 'zh'
+
         post_data = {
-            'from': self.langdetect(),
-            'to': 'en',
+            'from': lang_type,
+            'to': to_type,
             'query': self.query_string,
             'transtype': 'translang',
             'simple_means_flag': 3
@@ -47,7 +50,7 @@ class BaiDuFanYi(object):
         # 1.1检测语言
         check_langer = self.langdetect()
         # 2.构造form data
-        data = self.get_post_data()
+        data = self.get_post_data(lang_type=check_langer)
         # 3.发送请求
         json_response = self.parse_url(data=data)
         # 4.提取json数据
