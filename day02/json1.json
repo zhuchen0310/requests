@@ -1,0 +1,699 @@
+{
+  'subject_collection': {
+    'cover_url': '',
+    'description': '',
+    'sharing_url': 'https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/movie_showing/',
+    'id': 'movie_showing',
+    'name': '影院热映',
+    'url': 'https://m.douban.com/app_topic/movie_showing',
+    'display': {
+      'layout': 'grid'
+    },
+    'subject_count': 38,
+    'uri': 'douban://douban.com/subject_collection/movie_showing'
+  },
+  'start': 0,
+  'count': 18,
+  'total': 38,
+  'subject_collection_items': [
+    {
+      'reviewer_name': '',
+      'directors': [
+        '乔·沃茨'
+      ],
+      'price': None,
+      'release_date': '09.08',
+      'info': '乔·沃茨/汤姆·霍兰德/小罗伯特·唐尼/玛丽莎·托梅/动作/科幻/冒险/2017-09-08(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/24753477/',
+      'actors': [
+        '汤姆·霍兰德',
+        '小罗伯特·唐尼',
+        '玛丽莎·托梅'
+      ],
+      'id': '24753477',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/24753477',
+      'subtype': '',
+      'title': '蜘蛛侠：英雄归来',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2497756471.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 7983,
+        'shape': 'rectangle',
+        'width': 5390
+      },
+      'rating': {
+        'count': 9651,
+        'value': 7.7,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '山田尚子'
+      ],
+      'price': None,
+      'release_date': '09.08',
+      'info': '山田尚子/入野自由/早见沙织/松冈茉优/剧情/爱情/动画/2017-09-08(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26264454/',
+      'actors': [
+        '入野自由',
+        '早见沙织',
+        '松冈茉优'
+      ],
+      'id': '26264454',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26264454',
+      'subtype': '',
+      'title': '声之形',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2497136132.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1684,
+        'shape': 'rectangle',
+        'width': 1200
+      },
+      'rating': {
+        'count': 12941,
+        'value': 7.4,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '霍耀良'
+      ],
+      'price': None,
+      'release_date': '09.08',
+      'info': '霍耀良/张国荣/陈百强/徐杰/剧情/爱情/2017-09-08(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/1470865/',
+      'actors': [
+        '张国荣',
+        '陈百强',
+        '徐杰'
+      ],
+      'id': '1470865',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/1470865',
+      'subtype': '',
+      'title': '失业生',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2498300586.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1500,
+        'shape': 'rectangle',
+        'width': 1060
+      },
+      'rating': {
+        'count': 2324,
+        'value': 7.4,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '颢然'
+      ],
+      'price': None,
+      'release_date': '09.08',
+      'info': '颢然/孙坚/陈燃/汪洋/喜剧/爱情/2017-09-08(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26845384/',
+      'actors': [
+        '孙坚',
+        '陈燃',
+        '汪洋'
+      ],
+      'id': '26845384',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26845384',
+      'subtype': '',
+      'title': '蜜月计划',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2497810764.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1337,
+        'shape': 'rectangle',
+        'width': 900
+      },
+      'rating': None
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '克里斯托弗·诺兰'
+      ],
+      'price': None,
+      'release_date': '09.01',
+      'info': '克里斯托弗·诺兰/菲恩·怀特海德/汤姆·格林-卡尼/杰克·劳登/剧情/历史/战争/2017-09-01(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26607693/',
+      'actors': [
+        '菲恩·怀特海德',
+        '汤姆·格林-卡尼',
+        '杰克·劳登'
+      ],
+      'id': '26607693',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26607693',
+      'subtype': '',
+      'title': '敦刻尔克',
+      'date': None,
+      'original_price': None,
+      'forum_info': {
+        'participant_count': 9135,
+        'id': 'movie/26607693',
+        'uri': 'douban://douban.com/movie/26607693/forum_topics'
+      },
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494950714.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 5155,
+        'shape': 'rectangle',
+        'width': 3500
+      },
+      'rating': {
+        'count': 162883,
+        'value': 8.6,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '吴京'
+      ],
+      'price': None,
+      'release_date': '07.27',
+      'info': '吴京/吴京/弗兰克·格里罗/吴刚/动作/2017-07-27(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26363254/',
+      'actors': [
+        '吴京',
+        '弗兰克·格里罗',
+        '吴刚'
+      ],
+      'id': '26363254',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26363254',
+      'subtype': '',
+      'title': '战狼2',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2485983612.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1134,
+        'shape': 'rectangle',
+        'width': 750
+      },
+      'rating': {
+        'count': 370575,
+        'value': 7.4,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '吕克·贝松'
+      ],
+      'price': None,
+      'release_date': '08.25',
+      'info': '吕克·贝松/戴恩·德哈恩/卡拉·迪瓦伊/克里夫·欧文/动作/科幻/冒险/2017-08-25(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/11502973/',
+      'actors': [
+        '戴恩·德哈恩',
+        '卡拉·迪瓦伊',
+        '克里夫·欧文'
+      ],
+      'id': '11502973',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/11502973',
+      'subtype': '',
+      'title': '星际特工：千星之城',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2496088130.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1600,
+        'shape': 'rectangle',
+        'width': 1064
+      },
+      'rating': {
+        'count': 53803,
+        'value': 7.1,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '福田雄一'
+      ],
+      'price': None,
+      'release_date': '09.01',
+      'info': '福田雄一/小栗旬/菅田将晖/桥本环奈/喜剧/动作/奇幻/2017-09-01(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26816086/',
+      'actors': [
+        '小栗旬',
+        '菅田将晖',
+        '桥本环奈'
+      ],
+      'id': '26816086',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26816086',
+      'subtype': '',
+      'title': '银魂',
+      'date': None,
+      'original_price': None,
+      'forum_info': {
+        'participant_count': 1895,
+        'id': 'movie/26816086',
+        'uri': 'douban://douban.com/movie/26816086/forum_topics'
+      },
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2497751588.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 4500,
+        'shape': 'rectangle',
+        'width': 3000
+      },
+      'rating': {
+        'count': 40526,
+        'value': 7.4,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '马特·里夫斯'
+      ],
+      'price': None,
+      'release_date': '09.15',
+      'info': '马特·里夫斯/安迪·瑟金斯/伍迪·哈里森/史蒂夫·茨恩/剧情/动作/科幻/2017-09-15(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/25808075/',
+      'actors': [
+        '安迪·瑟金斯',
+        '伍迪·哈里森',
+        '史蒂夫·茨恩'
+      ],
+      'id': '25808075',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/25808075',
+      'subtype': '',
+      'title': '猩球崛起3：终极之战',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494093630.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1503,
+        'shape': 'rectangle',
+        'width': 1000
+      },
+      'rating': {
+        'count': 4123,
+        'value': 7.2,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '布莱恩·菲'
+      ],
+      'price': None,
+      'release_date': '08.25',
+      'info': '布莱恩·菲/欧文·威尔逊/克里斯黛拉·阿朗索/克里斯·库珀/喜剧/动画/冒险/2017-08-25(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/25849480/',
+      'actors': [
+        '欧文·威尔逊',
+        '克里斯黛拉·阿朗索',
+        '克里斯·库珀'
+      ],
+      'id': '25849480',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/25849480',
+      'subtype': '',
+      'title': '赛车总动员3：极速挑战',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492869476.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1378,
+        'shape': 'rectangle',
+        'width': 984
+      },
+      'rating': {
+        'count': 7571,
+        'value': 7.2,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '理查德·戴尔'
+      ],
+      'price': None,
+      'release_date': '08.11',
+      'info': '理查德·戴尔/成龙/罗伯特·雷德福/纪录片/2017-08-11(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26647876/',
+      'actors': [
+        '成龙',
+        '罗伯特·雷德福'
+      ],
+      'id': '26647876',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26647876',
+      'subtype': '',
+      'title': '地球：神奇的一天',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2493261459.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 6260,
+        'shape': 'rectangle',
+        'width': 4488
+      },
+      'rating': {
+        'count': 8248,
+        'value': 8.2,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '叶伟信'
+      ],
+      'price': None,
+      'release_date': '08.17',
+      'info': '叶伟信/古天乐/吴樾/托尼·贾/剧情/动作/2017-08-17(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26826398/',
+      'actors': [
+        '古天乐',
+        '吴樾',
+        '托尼·贾'
+      ],
+      'id': '26826398',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26826398',
+      'subtype': '',
+      'title': '杀破狼·贪狼',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2494948513.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 8268,
+        'shape': 'rectangle',
+        'width': 5906
+      },
+      'rating': {
+        'count': 46745,
+        'value': 7.4,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '阚家伟'
+      ],
+      'price': None,
+      'release_date': '08.31',
+      'info': '阚家伟/任达华/陈小春/伍允龙/剧情/动作/犯罪/2017-08-31(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26752106/',
+      'actors': [
+        '任达华',
+        '陈小春',
+        '伍允龙'
+      ],
+      'id': '26752106',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26752106',
+      'subtype': '',
+      'title': '黑白迷宫',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2497530254.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 2000,
+        'shape': 'rectangle',
+        'width': 1428
+      },
+      'rating': {
+        'count': 1237,
+        'value': 5.1,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '埃德加·赖特'
+      ],
+      'price': None,
+      'release_date': '08.25',
+      'info': '埃德加·赖特/安塞尔·艾尔高特/凯文·史派西/杰米·福克斯/动作/犯罪/音乐/2017-08-25(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/25933890/',
+      'actors': [
+        '安塞尔·艾尔高特',
+        '凯文·史派西',
+        '杰米·福克斯'
+      ],
+      'id': '25933890',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/25933890',
+      'subtype': '',
+      'title': '极盗车神',
+      'date': None,
+      'original_price': None,
+      'forum_info': {
+        'participant_count': 1364,
+        'id': 'movie/25933890',
+        'uri': 'douban://douban.com/movie/25933890/forum_topics'
+      },
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2496901482.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 2925,
+        'shape': 'rectangle',
+        'width': 2048
+      },
+      'rating': {
+        'count': 44077,
+        'value': 7.2,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '里昂珀多·阿格拉'
+      ],
+      'price': None,
+      'release_date': '09.09',
+      'info': '里昂珀多·阿格拉/菲奥娜·哈丁汉姆/罗格·杰克逊/南希·苏利文/喜剧/动画/冒险/2017-09-09(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/27078038/',
+      'actors': [
+        '菲奥娜·哈丁汉姆',
+        '罗格·杰克逊',
+        '南希·苏利文'
+      ],
+      'id': '27078038',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/27078038',
+      'subtype': '',
+      'title': '怪物岛',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2497100120.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1455,
+        'shape': 'rectangle',
+        'width': 1000
+      },
+      'rating': None
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '肯尼思·洛纳根'
+      ],
+      'price': None,
+      'release_date': '08.25',
+      'info': '肯尼思·洛纳根/卡西·阿弗莱克/卢卡斯·赫奇斯/米歇尔·威廉姆斯/剧情/家庭/2017-08-25(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/25980443/',
+      'actors': [
+        '卡西·阿弗莱克',
+        '卢卡斯·赫奇斯',
+        '米歇尔·威廉姆斯'
+      ],
+      'id': '25980443',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/25980443',
+      'subtype': '',
+      'title': '海边的曼彻斯特',
+      'date': None,
+      'original_price': None,
+      'forum_info': {
+        'participant_count': 1776,
+        'id': 'movie/25980443',
+        'uri': 'douban://douban.com/movie/25980443/forum_topics'
+      },
+      'actions': [
+        '可播放'
+      ],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2496940327.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 1428,
+        'shape': 'rectangle',
+        'width': 1000
+      },
+      'rating': {
+        'count': 145035,
+        'value': 8.6,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '卢恒宇'
+      ],
+      'price': None,
+      'release_date': '08.18',
+      'info': '卢恒宇/山新/郝祥海/李姝洁/喜剧/动画/奇幻/2017-08-18(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/26759539/',
+      'actors': [
+        '山新',
+        '郝祥海',
+        '李姝洁'
+      ],
+      'id': '26759539',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/26759539',
+      'subtype': '',
+      'title': '十万个冷笑话2',
+      'date': None,
+      'original_price': None,
+      'forum_info': {
+        'participant_count': 986,
+        'id': 'movie/26759539',
+        'uri': 'douban://douban.com/movie/26759539/forum_topics'
+      },
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2492917402.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 3125,
+        'shape': 'rectangle',
+        'width': 2000
+      },
+      'rating': {
+        'count': 22218,
+        'value': 7.7,
+        'max': 10
+      }
+    },
+    {
+      'reviewer_name': '',
+      'directors': [
+        '戴玮'
+      ],
+      'price': None,
+      'release_date': '08.31',
+      'info': '戴玮/朱茵/杜天皓/黄征/喜剧/爱情/奇幻/2017-08-31(中国大陆)',
+      'url': 'https://m.douban.com/movie/subject/27040349/',
+      'actors': [
+        '朱茵',
+        '杜天皓',
+        '黄征'
+      ],
+      'id': '27040349',
+      'type': 'movie',
+      'label': None,
+      'uri': 'douban://douban.com/movie/27040349',
+      'subtype': '',
+      'title': '二次初恋',
+      'date': None,
+      'original_price': None,
+      'forum_info': None,
+      'actions': [],
+      'description': '',
+      'cover': {
+        'url': 'https://qnmob2.doubanio.com/view/movie_poster_cover/lpst/public/p2497757292.jpg?imageView2/0/q/80/w/9999/h/400/format/jpg',
+        'height': 9921,
+        'shape': 'rectangle',
+        'width': 7088
+      },
+      'rating': {
+        'count': 794,
+        'value': 4.6,
+        'max': 10
+      }
+    }
+  ]
+}

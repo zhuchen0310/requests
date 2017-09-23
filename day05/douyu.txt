@@ -1,0 +1,1680 @@
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/19223_2100.jpg",
+    "person_num": "27.4万",
+    "title": "QQQ  先SOLO，盒子精在下是也~~",
+    "user_name": "气人主播QQQ",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1499963_2106.jpg",
+    "person_num": "26万",
+    "title": "周末(｡･∀･)ﾉﾞ嗨",
+    "user_name": "兔子无双0",
+    "game": "星娱"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/3484_2100.jpg",
+    "person_num": "20.3万",
+    "title": "晚上11点直播WCS第3天",
+    "user_name": "scboy",
+    "game": "星际争霸"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.9万",
+    "title": "CC：今晚8点··让我们嗨起来",
+    "user_name": "CCLIVE",
+    "game": "足球竞技"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "293万",
+    "title": "斩妖除魔杀妖怪，一路相伴张大仙！",
+    "user_name": "指法芬芳张大仙",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "237万",
+    "title": "感谢陪伴，一起成长。",
+    "user_name": "嗨氏",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "219万",
+    "title": "卢本伟五五开卢本伟五五开",
+    "user_name": "White55开解说",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "110万",
+    "title": "拖小米只会蹲草",
+    "user_name": "DL丶拖米",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "110万",
+    "title": "今天很帅。",
+    "user_name": "往事zr",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "95.6万",
+    "title": "斗鱼绝地黄金大奖赛B组第四轮",
+    "user_name": "主机区专用",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "82万",
+    "title": "东北大鹌鹑 宇宙第一寒冰 相声艺术家！",
+    "user_name": "东北大鹌鹑",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "61.7万",
+    "title": "我与200星只差个不二：蛙神100星排位",
+    "user_name": "小小青蛙笑i",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "50.3万",
+    "title": "枫吹的我喘不过气",
+    "user_name": "yyfyyf",
+    "game": "DOTA2"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.2万",
+    "title": "暗杠音乐专场：粤听粤六②",
+    "user_name": "暗杠小发",
+    "game": "音乐"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.6万",
+    "title": "宋老师课堂开课了",
+    "user_name": "宋梓馨",
+    "game": "星娱"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "45.1万",
+    "title": "Q神：输一盘288皮肤老规矩！",
+    "user_name": "小QIMBA",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.3万",
+    "title": "一起来看MotoGp圣马力诺站！！",
+    "user_name": "老司机6个6",
+    "game": "汽车"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "38.5万",
+    "title": "双人现开赛冰封王座篇-B组（直播）",
+    "user_name": "暴雪游戏频道",
+    "game": "炉石传说"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "",
+    "title": "我就是拳王广州半决赛",
+    "user_name": "企鹅跳转专用24",
+    "game": "企鹅直播"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.7万",
+    "title": "F1超级模拟联赛意大利站",
+    "user_name": "蛙赛live",
+    "game": "汽车"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2万",
+    "title": "菠萝❤温文尔雅素质主播",
+    "user_name": "菠萝赛东",
+    "game": "二次元"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "24.6万",
+    "title": "I jump,you jump!!!",
+    "user_name": "解放大官人",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "24.6万",
+    "title": "油条:烟台特种兵前来单排吃鸡！",
+    "user_name": "主播油条",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "23.8万",
+    "title": "你的肉体我的心~歌神洞庭湖.",
+    "user_name": "洞主丨歌神洞庭湖",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "23.2万",
+    "title": "9月12日晚八点全球总决赛抽签直播",
+    "user_name": "英雄联盟官方赛事",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "20.9万",
+    "title": "涛妹：春哥灿烂春八戒！",
+    "user_name": "只有十五岁的涛妹",
+    "game": "炉石传说"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1026",
+    "title": "来自二战的问候，1940年代步话机上手",
+    "user_name": "GeekBar",
+    "game": "数码科技"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "417",
+    "title": "第二届一带一路亚太女性（泰国）高峰论坛",
+    "user_name": "登疯造极V",
+    "game": "军事"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "19万",
+    "title": "随便瞎玩玩，等会玩怪兽入侵",
+    "user_name": "青铜皇帝赏金术士",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "17.6万",
+    "title": "斗鱼NO.1声优-寅子的游戏教室",
+    "user_name": "寅子",
+    "game": "主机游戏"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "17.4万",
+    "title": "LCS区域资格赛9月10日重播",
+    "user_name": "Riot丶LCS",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "16.5万",
+    "title": "二次元大乱斗❤SABER绝版手办！",
+    "user_name": "竹内條條",
+    "game": "二次元"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "16.4万",
+    "title": "啦啦啦：自选馆长4骨魇贼！",
+    "user_name": "炉石丶啦啦啦",
+    "game": "炉石传说"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "15.9万",
+    "title": "2017皇室战争中国区皇冠锦标赛",
+    "user_name": "Supercell游戏频道",
+    "game": "皇室战争"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "",
+    "title": "战太极-功夫王争霸赛",
+    "user_name": "企鹅跳转专用6",
+    "game": "企鹅直播"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "821",
+    "title": "小河：画画画画。我回来了",
+    "user_name": "河也",
+    "game": "鱼艺"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "14.9万",
+    "title": "游戏主播钱小佳",
+    "user_name": "高冷男神钱小佳",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "14.5万",
+    "title": "让我吃-10000000000000次鸡",
+    "user_name": "恶魔qq",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "14.1万",
+    "title": "《完美国际2》嘉年华，霹雳带你燃~",
+    "user_name": "霹雳爷们儿",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2268",
+    "title": "师者，传道授业解惑也",
+    "user_name": "临江书院书法老师",
+    "game": "鱼教"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "13.8万",
+    "title": "惊蜇：今夜无雪无晴  无悲喜",
+    "user_name": "惊蜇",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "13.1万",
+    "title": "今天幫弟弟挑鞋子030",
+    "user_name": "香菇年丶",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "13.1万",
+    "title": "Pis直播间:我要Carry",
+    "user_name": "YaphetS丶666",
+    "game": "DOTA2"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "12.6万",
+    "title": "TeD 19:00黄金联赛最后一天",
+    "user_name": "ForeverTED",
+    "game": "魔兽争霸"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "12.5万",
+    "title": "【猫腻】绝地求生 厕所四恶霸",
+    "user_name": "Happy丨猫腻",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "11.8万",
+    "title": "狗哥：返璞归真 回归自我",
+    "user_name": "荣耀英雄宋人头",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "11.4万",
+    "title": "【YJJPP】正在举办尬唱大赛",
+    "user_name": "yjjimpaopao",
+    "game": "守望先锋"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "11.4万",
+    "title": "国服最贱小主播",
+    "user_name": "请与逗比同归于尽丶",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1343",
+    "title": "飞哥畅聊天下",
+    "user_name": "一叶知秋1980",
+    "game": "军事"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "10.5万",
+    "title": "仙凡：SOLO王,赢我一次5000点卷",
+    "user_name": "仙凡哥哥丶",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "10.4万",
+    "title": "法拉利：最强心理学狼人杀技术主播",
+    "user_name": "法拉利的直播间",
+    "game": "狼人杀专区"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "10.1万",
+    "title": "飞飞：日常直播",
+    "user_name": "飞飞Fighting",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "9.4万",
+    "title": "逆风笑直播间",
+    "user_name": "逆风笑的直播间",
+    "game": "主机游戏"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "9.1万",
+    "title": "七点答题，十点五星鼬",
+    "user_name": "ice秋风",
+    "game": "火影忍者"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "8.5万",
+    "title": "【威海大叔】海鲜计划！",
+    "user_name": "鬼豪户外",
+    "game": "美食"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "8.4万",
+    "title": "【AJ】夜上海《妹在囧途》今晚你是谁？",
+    "user_name": "主播AJ",
+    "game": "狼人杀专区"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "8.3万",
+    "title": "翅：鸡翅直播，日赚千万",
+    "user_name": "云彩上的翅膀",
+    "game": "DNF"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "8万",
+    "title": "三炮：最强关羽，没有之一",
+    "user_name": "三炮嘿咻嘿",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "7.9万",
+    "title": "四分之三打野法 野区有四 我取其三",
+    "user_name": "叶音符",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "7.8万",
+    "title": "【MINI】更新了科技，路人能点舞蹈了",
+    "user_name": "guoyun丶mini",
+    "game": "二次元"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "7.6万",
+    "title": "王尼玛携手俞敏洪尚雯婕组团消灭开学负能量",
+    "user_name": "暴走漫画",
+    "game": "二次元"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "7.4万",
+    "title": "[shou]亚服第二钢枪王【滑稽】",
+    "user_name": "17shou丷",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "7万",
+    "title": "【冒险岛2】不限号！即将来临！",
+    "user_name": "主播20投",
+    "game": "冒险岛2"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "6.6万",
+    "title": "紫蓝：杂技型跑酷选手",
+    "user_name": "想减肥的紫蓝",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "6.6万",
+    "title": "铁指导:澄海3c1v1正版教科书！",
+    "user_name": "澄海TMac",
+    "game": "魔兽争霸"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "6.5万",
+    "title": "「三味真火互动音乐会」",
+    "user_name": "三味真火音乐会",
+    "game": "音乐"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "5.7万",
+    "title": "【冷寨主】4v4擂台！元气满满！",
+    "user_name": "dnf冷寨主",
+    "game": "DNF"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "5.6万",
+    "title": "免费接合宠打书打造，梦幻手游",
+    "user_name": "小儿郎丶丶",
+    "game": "梦幻西游手游"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "5.6万",
+    "title": "人狠枪刚！重新打榜~",
+    "user_name": "高冷丑男暖心囧",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "5.4万",
+    "title": "黑白锐雯,打排位啦",
+    "user_name": "黑白锐雯",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "5.1万",
+    "title": "奥迪TT RS/RS3上市发布会",
+    "user_name": "老司机养小鱼儿",
+    "game": "汽车"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "5.1万",
+    "title": "给七哥践行",
+    "user_name": "俄罗斯教父",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "5.1万",
+    "title": "2017 CFPL-S11职业联赛",
+    "user_name": "穿越火线运营团队",
+    "game": "穿越火线"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4.8万",
+    "title": "我 良智  9000上分~",
+    "user_name": "kaka胡良智",
+    "game": "DOTA2"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4.8万",
+    "title": "斗鱼第一宠粉狂魔小丸子",
+    "user_name": "小丸子因因",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4.6万",
+    "title": "斗鱼黄金速递赛，gogogo",
+    "user_name": "47号Gamer",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4.5万",
+    "title": "雷疯讲棋：体验一个象棋疯子给您带来的快乐",
+    "user_name": "雷疯小叔",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4.4万",
+    "title": "乌鸦：上分+7点答题+圆梦！",
+    "user_name": "王者之路乌鸦",
+    "game": "火影忍者"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4.1万",
+    "title": "【Eiji】：Eiji",
+    "user_name": "一Eiji一",
+    "game": "DNF"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4万",
+    "title": "黄雀：最强花木兰没有之一",
+    "user_name": "黄雀1691",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4万",
+    "title": "关羽大意失荆州，真的怪刘皇叔？",
+    "user_name": "易中天",
+    "game": "军事"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4万",
+    "title": "211：晚上7点黄金联赛！",
+    "user_name": "NB211莉莉ZHOULINLI",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "4万",
+    "title": "黄金联赛最终四强争霸~",
+    "user_name": "Flygogogogo",
+    "game": "魔兽争霸"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.9万",
+    "title": "【珍宝岛】中苏关系转折之战",
+    "user_name": "军武直播",
+    "game": "军事"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.9万",
+    "title": "19:00黄金赛预算赛最终日 000 VS focus",
+    "user_name": "Infi小王",
+    "game": "魔兽争霸"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.8万",
+    "title": "广州，广州。",
+    "user_name": "TD丶正直博",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.7万",
+    "title": "【疯子】绝地求生 打造斗鱼第一98K",
+    "user_name": "Happy丨疯子",
+    "game": "绝地求生"
+}
+{
+    "img": "https://staticlive.douyucdn.cn/upload/icon/95798aacb48ef4f183081abf52daf73b.png",
+    "person_num": "3.6万",
+    "title": "河道锚鱼，能出货么？",
+    "user_name": "长沙乡村敢死队",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.6万",
+    "title": "今年最嗨的电音节",
+    "user_name": "开播了讲一声",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.6万",
+    "title": "讲文明树新风陆叁贰肆带头冲",
+    "user_name": "陆叁贰肆一台",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.5万",
+    "title": "回北京了机啦",
+    "user_name": "昕昕Sama",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.4万",
+    "title": "军队和警察的狙击手哪个更厉害？",
+    "user_name": "每日点兵Top",
+    "game": "军事"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.4万",
+    "title": "周六:鸽一下吧 嗓子太累了",
+    "user_name": "PVP导演丶蓝雨",
+    "game": "阴阳师"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.4万",
+    "title": "【小六】边做任务边比赛！",
+    "user_name": "ll小六ll",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.3万",
+    "title": "神超：萌新吃鸡主播~",
+    "user_name": "三笠ackerman丶1",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.3万",
+    "title": "50年前PLA靠啥打败了三锅？",
+    "user_name": "张召忠",
+    "game": "军事"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.2万",
+    "title": "【变态】半藏",
+    "user_name": "半藏的救赎1",
+    "game": "守望先锋"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.2万",
+    "title": "【大莉cc】单排超神小美女",
+    "user_name": "大莉cc",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.2万",
+    "title": "中国TED 一刻talks官方直播间",
+    "user_name": "一刻talks",
+    "game": "科普"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.1万",
+    "title": "你不可不知的一线科学家日常",
+    "user_name": "科学味儿",
+    "game": "科普"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3.1万",
+    "title": "第一皎月单带100胜率MVP，从零单排",
+    "user_name": "狗康Bfate丶",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3万",
+    "title": "ZSMJ直播间 来了 冲冲冲",
+    "user_name": "ZSMJ727974758",
+    "game": "DOTA2"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3万",
+    "title": "LCK冒泡赛KT vs SSG重播",
+    "user_name": "Riot丶LCK",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "3万",
+    "title": "二爷解说：我叫二爷 我TM玩兰陵王",
+    "user_name": "二爷解说",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.9万",
+    "title": "韩大大：宫本只有我会玩！",
+    "user_name": "韩大大Ya",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.9万",
+    "title": "我的 ADC 偶像是 开挂的脚本",
+    "user_name": "MoMo0130",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.9万",
+    "title": "打牌我只服浩哥 三亿第二天",
+    "user_name": "宁夏第一炮王浩哥",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.8万",
+    "title": "【小叮当】莪，洄涞嘞♥",
+    "user_name": "Xleft小叮当",
+    "game": "守望先锋"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.8万",
+    "title": "八路奶粉： 求求你们不要秀了。",
+    "user_name": "八路奶粉zzzzz",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.8万",
+    "title": "鸣圣：在上海一起看比赛 晚点活动",
+    "user_name": "航空鸣圣",
+    "game": "皇室战争"
+}
+{
+    "img": "https://staticlive.douyucdn.cn/upload/icon/95798aacb48ef4f183081abf52daf73b.png",
+    "person_num": "2.8万",
+    "title": "F4 :大吉大利晚上吃鸡",
+    "user_name": "老乡开下门",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.8万",
+    "title": "Linkin:东南亚组排第一，转战亚服",
+    "user_name": "Linkin丶Fight",
+    "game": "绝地求生"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.7万",
+    "title": "想大家了，你们想我了吗？",
+    "user_name": "佩佩猪丶",
+    "game": "颜值"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.7万",
+    "title": "惊喜无处不在",
+    "user_name": "周馨馨",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.7万",
+    "title": "蛋蛋：大吉大利，晚上吃鸡！",
+    "user_name": "蛋蛋Oy",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.6万",
+    "title": "人形盒子精",
+    "user_name": "摩卡加冰丶",
+    "game": "绝地求生"
+}
+{
+    "img": "https://staticlive.douyucdn.cn/upload/icon/95798aacb48ef4f183081abf52daf73b.png",
+    "person_num": "2.5万",
+    "title": "值得纪念日子集体下馆子。",
+    "user_name": "魅力生活i",
+    "game": "美食"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.5万",
+    "title": "立人：官方解说的直播日常",
+    "user_name": "七煌孙立人",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.5万",
+    "title": "老表：经济烧脑派大星！~",
+    "user_name": "尐表哥",
+    "game": "主机游戏"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.4万",
+    "title": "四国军棋：小姐姐人美棋6",
+    "user_name": "心蕊cool",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/2311698_2110.jpg",
+    "person_num": "2.4万",
+    "title": "【斯祥】锤！！！！",
+    "user_name": "斯祥丶",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/645396_2103.jpg",
+    "person_num": "2.4万",
+    "title": "免费上车 一起上分",
+    "user_name": "狗月亮",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/500519_2102.jpg",
+    "person_num": "2.4万",
+    "title": "专注做号30年任何输出辅助，日服皇城PK",
+    "user_name": "骚乖可爱宝贝朴",
+    "game": "二次元"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.3万",
+    "title": "最强“芈月”一打九",
+    "user_name": "亭子Damon",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/587997_2103.jpg",
+    "person_num": "2.3万",
+    "title": "【深夜海鲜食堂】澳龙招待牛子部主任！",
+    "user_name": "威海高哥587997",
+    "game": "美食"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/562590_2102.jpg",
+    "person_num": "2.3万",
+    "title": "【街头画画】重操旧业赚个晚饭钱",
+    "user_name": "观音桥毕加索",
+    "game": "户外"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "2.3万",
+    "title": "你们的婉儿已上线",
+    "user_name": "婉小婉",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/11/6033f49727e7f0b240d0b922fc5c24dc.jpg",
+    "person_num": "2.3万",
+    "title": "八卦象棋大师，挑战极限象棋，早：10点开",
+    "user_name": "八卦象棋大师",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/820297_2104.jpg",
+    "person_num": "2.3万",
+    "title": "【soso】19:00 黄金赛",
+    "user_name": "aaron丶soso",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/appCovers/2017/04/03/660205_20170403034004_small.jpg",
+    "person_num": "2.3万",
+    "title": "【刘小七】周末颜值区聊天",
+    "user_name": "刘小七7",
+    "game": "颜值"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/02/72c8f0ed39907a6f5bed6fe509675141.jpg",
+    "person_num": "2.2万",
+    "title": "黄雀：最强花木兰没有之一",
+    "user_name": "黄雀1691",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1918013_1649.jpg",
+    "person_num": "2.2万",
+    "title": "三指操作 闪现疾跑国服最强关羽",
+    "user_name": "苏打锋",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/206858_2100.jpg",
+    "person_num": "2.1万",
+    "title": "【火影忍者】精彩战役+草帽路飞剧场版",
+    "user_name": "所有人都在装",
+    "game": "视听点评"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/829815_2007.jpg",
+    "person_num": "2万",
+    "title": "老外的逗比日常",
+    "user_name": "我是嘿老外",
+    "game": "数码科技"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/300401_2101.jpg",
+    "person_num": "2万",
+    "title": "全能王拉哥;上分 上分 上分！~",
+    "user_name": "全能王拉哥300401",
+    "game": "穿越火线"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1750480_2107.jpg",
+    "person_num": "2万",
+    "title": "牛吃草:7点比赛，热热手",
+    "user_name": "牛丶吃草",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/497592_2102.jpg",
+    "person_num": "1.9万",
+    "title": "阿敏：魔法少女索拉卡上单啦~~",
+    "user_name": "电竞毒奶敏丶",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/297535_2101.jpg",
+    "person_num": "1.9万",
+    "title": "四国军棋狂魔：新主播，求关注！",
+    "user_name": "恶蚊子",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1937174_2108.jpg",
+    "person_num": "1.9万",
+    "title": "柯哥：脚强王者的上分路",
+    "user_name": "半臂柯",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/415697_2101.jpg",
+    "person_num": "1.9万",
+    "title": "小安：意识流打野上王者！",
+    "user_name": "小安丶666",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/07/29/5d6cd66142a61d41575695bca2edf686.jpg",
+    "person_num": "1.9万",
+    "title": "这是一个小姐姐非常多的直播间",
+    "user_name": "偶尔说说昔日已被注册",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/545318_2102.jpg",
+    "person_num": "1.9万",
+    "title": "听歌聊天室明天山东潜水咯",
+    "user_name": "疯狂的二表哥",
+    "game": "汽车"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/98144_2100.jpg",
+    "person_num": "1.9万",
+    "title": "二鸽：国服第一全金星界德！！",
+    "user_name": "炉石主播周二鸽",
+    "game": "炉石传说"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/19574_2100.jpg",
+    "person_num": "1.8万",
+    "title": "八路奶粉： 求求你们不要秀了。",
+    "user_name": "八路奶粉zzzzz",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1165924_2105.jpg",
+    "person_num": "1.8万",
+    "title": "我的老师高老师，大家都知道，人不咋样！",
+    "user_name": "靓旭",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/675357_2103.jpg",
+    "person_num": "1.8万",
+    "title": "四国军棋：小姐姐人美棋6",
+    "user_name": "心蕊cool",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/11017_2100.jpg",
+    "person_num": "1.8万",
+    "title": "周末晚间场：19点黄金联赛4强赛",
+    "user_name": "蛋塔秀Infi000",
+    "game": "魔兽争霸"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1126960_2105.jpg",
+    "person_num": "1.8万",
+    "title": "国服诺手我认第二，谁敢认第一？",
+    "user_name": "余小C不需要打野",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/99039_2100.jpg",
+    "person_num": "1.7万",
+    "title": "【ID】看盒子精来了",
+    "user_name": "这个ID很流弊",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1756941_2107.jpg",
+    "person_num": "1.7万",
+    "title": "温柔梦：进来你会爱上我的",
+    "user_name": "超级无敌梦哥哥",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/301049_2101.jpg",
+    "person_num": "1.7万",
+    "title": "帅三：新冰DK秘境依旧强大！",
+    "user_name": "棒老三",
+    "game": "魔兽世界"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/339610_2101.jpg",
+    "person_num": "1.7万",
+    "title": "不一样的绝地求生直播间",
+    "user_name": "单车老师不迟到",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/30556_2100.jpg",
+    "person_num": "1.7万",
+    "title": "[4K最清晰] 继续解锁DLC武器",
+    "user_name": "老朱Zuriel739",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1070726_2105.jpg",
+    "person_num": "1.7万",
+    "title": "免费带粉，免费打号",
+    "user_name": "主播丶七宝",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/appCovers/2017/01/05/1008423_20170105164715_small.jpg",
+    "person_num": "1.7万",
+    "title": "想大家了，你们想我了吗？",
+    "user_name": "佩佩猪丶",
+    "game": "颜值"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/981654_2105.jpg",
+    "person_num": "1.6万",
+    "title": "全能女射手 孙尚香 鲁班专场",
+    "user_name": "我要凉水",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.6万",
+    "title": "SNH48 N队《专属派对》公演",
+    "user_name": "SNH48公演直播",
+    "game": "音乐"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.6万",
+    "title": "世界那么大，马克带你去看看",
+    "user_name": "Maco阿",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.6万",
+    "title": "老王：再次烤一大羊腿，成功成功成功",
+    "user_name": "美食老王",
+    "game": "美食"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/478203_2102.jpg",
+    "person_num": "1.6万",
+    "title": "晚上好 我是新来的小姐姐柠檬",
+    "user_name": "吊爆侠斗渔",
+    "game": "梦幻西游手游"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/651133_2103.jpg",
+    "person_num": "1.6万",
+    "title": "【防弹】黄金大奖赛妹子观光团！",
+    "user_name": "防弹少女丶",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/01/e9da0f22820bd11f4529a519508d537f.jpg",
+    "person_num": "1.6万",
+    "title": "264：最强达摩（5-10点专场）",
+    "user_name": "我是264",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/83431_2100.jpg",
+    "person_num": "1.5万",
+    "title": "趴：恶棍身体好 混蛋不显老",
+    "user_name": "软趴趴sama",
+    "game": "魔兽世界"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/702130_2103.jpg",
+    "person_num": "1.5万",
+    "title": "《神秘海域：失落的遗产》二周目收集剧情！",
+    "user_name": "佳宁呀",
+    "game": "主机游戏"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/2017/07/06/1014239332a045d205c1e2ebe80cc5fc.png",
+    "person_num": "1.5万",
+    "title": "FMC官方轮播间 最新内容同步更新",
+    "user_name": "FMC频道",
+    "game": "汽车"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/228432_2101.jpg",
+    "person_num": "1.5万",
+    "title": "【奶茶】意识第一枪法第二",
+    "user_name": "奶茶Survival",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/97590_2100.jpg",
+    "person_num": "1.4万",
+    "title": "王者盒子精",
+    "user_name": "五金店主葛小狗",
+    "game": "狼人杀专区"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/04/25917a3af3f37e2e8a9b9fc193fd0709.jpg",
+    "person_num": "1.4万",
+    "title": "中国科学院物理研究所直播间",
+    "user_name": "中科院物理所",
+    "game": "科普"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/315173_2101.jpg",
+    "person_num": "1.4万",
+    "title": "晨曦秋叶vs孤浪偏执.~努力战斗每一盘。",
+    "user_name": "澄海3c晨曦",
+    "game": "魔兽争霸"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/214514_2100.jpg",
+    "person_num": "1.4万",
+    "title": "鹰鹰：好好练枪。",
+    "user_name": "214514加藤鹰",
+    "game": "穿越火线"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/06/14/eb71dcd1bbf551b4a4a7617d2ae7c568.jpg",
+    "person_num": "1.4万",
+    "title": "郑州80it：开学季小白防坊必学",
+    "user_name": "80it电脑网",
+    "game": "数码科技"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/216352_2100.jpg",
+    "person_num": "1.4万",
+    "title": "老戴在此直播间",
+    "user_name": "老戴在此",
+    "game": "主机游戏"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/138155_2100.jpg",
+    "person_num": "1.3万",
+    "title": "靖哥哥:不爱洗头的靖哥哥",
+    "user_name": "Jing靖哥哥",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1972046_2108.jpg",
+    "person_num": "1.3万",
+    "title": "lilith的直播间",
+    "user_name": "lilithxy",
+    "game": "DOTA2"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/47227_2100.jpg",
+    "person_num": "1.3万",
+    "title": "【森】阴暗森林 终于第二章了",
+    "user_name": "我有上将潘森",
+    "game": "主机游戏"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/07/30/83f1e109b757bd08ae9189bef7b8c06f.jpg",
+    "person_num": "1.3万",
+    "title": "米大粒：微信低端局扛把子、",
+    "user_name": "小米粒是米爸爸",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/532238_2102.jpg",
+    "person_num": "1.3万",
+    "title": "香蕉 一个字 锤",
+    "user_name": "皮皮蕉Banana",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/81515_2100.jpg",
+    "person_num": "1.3万",
+    "title": "嘟师傅、三十三岁战队出征！",
+    "user_name": "dudu4e",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/99816_2100.jpg",
+    "person_num": "1.3万",
+    "title": "Tiger: 今天不吃鸡明天变...",
+    "user_name": "今晚打老虎gg",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/4938_2100.jpg",
+    "person_num": "1.3万",
+    "title": "致青春：这个破网是好不了了",
+    "user_name": "玩个犊子",
+    "game": "传奇"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/28/2eaa16412f5e272b3ab21386494c55c4.jpg",
+    "person_num": "1.3万",
+    "title": "肉包从零单排到荣耀！",
+    "user_name": "杭州小肉包嘿嘿嘿",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/235520_2101.jpg",
+    "person_num": "1.3万",
+    "title": "【K9】：天梯冲分教室（有这种操作）",
+    "user_name": "14yearsold天残少年K9",
+    "game": "DOTA2"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/235407_2101.jpg",
+    "person_num": "1.3万",
+    "title": "【酒】没时间解释了！",
+    "user_name": "235407酒",
+    "game": "穿越火线"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/2360598_2111.jpg",
+    "person_num": "1.3万",
+    "title": "迷：射手位 都是细节",
+    "user_name": "VinSa迷",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/1097151_2105.jpg",
+    "person_num": "1.3万",
+    "title": "披萨OB：Faker专属OB房 SKT",
+    "user_name": "Faker直播OB",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/93936_2100.jpg",
+    "person_num": "1.3万",
+    "title": "【赖小峰】走你~",
+    "user_name": "赖小峰",
+    "game": "CS:GO"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/834093_2104.jpg",
+    "person_num": "1.2万",
+    "title": "小飞：人狠话不多",
+    "user_name": "小飞Avery",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/05/09/82899d10ecda017ac807e882dabd7bfb.jpg",
+    "person_num": "1.2万",
+    "title": "四国军棋：泡面茶水备好通宵，有人一起吗",
+    "user_name": "欠妳緈諨",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/6540_2100.jpg",
+    "person_num": "1.2万",
+    "title": "【炫妹陪看】星爷 华语 动作 经典",
+    "user_name": "酷酷炫炫",
+    "game": "视听点评"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.2万",
+    "title": "与北大学子一起碰撞思想！席位有限，速来～",
+    "user_name": "CC讲坛",
+    "game": "科普"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.2万",
+    "title": "【股商学院】零基础股票学习",
+    "user_name": "股商学院",
+    "game": "财经"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.2万",
+    "title": "【影之诗】天盾狮子教天梯开课啦！",
+    "user_name": "暗月旅团丨猫猫",
+    "game": "二次元手游"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/30/beba70db0f7ebaf4dd58f5b62913c862.jpg",
+    "person_num": "1.2万",
+    "title": "天天卡牌官方直播间  再看亿集",
+    "user_name": "天天卡牌",
+    "game": "炉石传说"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/944146_2105.jpg",
+    "person_num": "1.2万",
+    "title": "娜酱❤19:00绝地求生黄金大奖赛",
+    "user_name": "小娜娜酱",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/2017/05/13/c3974299095cf5e711c0b590ce05b60d.jpg",
+    "person_num": "1.2万",
+    "title": "【声优阿狸】你的狸老师已上线=3=",
+    "user_name": "小狐狸有九尾",
+    "game": "二次元"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/533175_2102.jpg",
+    "person_num": "1.2万",
+    "title": "阿发：4V4!事了拂衣去，深藏身与名",
+    "user_name": "邪教发哥",
+    "game": "DNF"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/560849_2102.jpg",
+    "person_num": "1.1万",
+    "title": "【狐半仙】我.银狐.比赛！",
+    "user_name": "主播银狐",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/303917_2101.jpg",
+    "person_num": "1.1万",
+    "title": "狂风，讲个笑话：我手很红",
+    "user_name": "狂人与風",
+    "game": "魔兽世界"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/248753_2101.jpg",
+    "person_num": "1.1万",
+    "title": "【s1134】经典 科幻 动作 灾难",
+    "user_name": "s1134",
+    "game": "视听点评"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/86728_2100.jpg",
+    "person_num": "1.1万",
+    "title": "【虫】™新人主播 求关注 求办卡！",
+    "user_name": "虫丶二",
+    "game": "魔兽争霸"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/703747_2103.jpg",
+    "person_num": "1.1万",
+    "title": "杨树-放逐之城 完全开荒",
+    "user_name": "主播杨树",
+    "game": "主机游戏"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.1万",
+    "title": "【林正英】僵尸 女鬼 弹幕 护体",
+    "user_name": "UnaDirezione",
+    "game": "视听点评"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.1万",
+    "title": "贡嘎雪山突遇驴友死亡事件 游侠真情告白",
+    "user_name": "荒野游侠记",
+    "game": "科普"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1.1万",
+    "title": "万恶千年杀中杀",
+    "user_name": "浪紅塵",
+    "game": "梦幻西游"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/07/ce82dac2c31dd5bf57bd80d5ef702507.jpg",
+    "person_num": "1.1万",
+    "title": "第一超级无敌美少女赵云",
+    "user_name": "番茄1949丶",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/2623172_2112.jpg",
+    "person_num": "1.1万",
+    "title": "香烟：无敌狄仁杰马克免费带粉～",
+    "user_name": "1根丶香烟",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/253516_2101.jpg",
+    "person_num": "1.1万",
+    "title": "小磊：我的外卖在跑，",
+    "user_name": "253516丶小磊",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/74512_2100.jpg",
+    "person_num": "1.1万",
+    "title": "毛 泽宇春 国服第一卡萨丁 直播上王者",
+    "user_name": "毛泽宇春丶",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/2084802_2109.jpg",
+    "person_num": "1.1万",
+    "title": "周末放纵一下",
+    "user_name": "闪扑扑",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/430802_2101.jpg",
+    "person_num": "1.1万",
+    "title": "宇宙第一达摩，带老板飘逸",
+    "user_name": "李小贝",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1万",
+    "title": "十六：归来，打个超影",
+    "user_name": "倾你万世华殇y",
+    "game": "火影忍者"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1万",
+    "title": "象棋宇宙棋师来一个杀一个！",
+    "user_name": "第一才子韩佐",
+    "game": "棋牌娱乐"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1万",
+    "title": "怡声.3D.催眠.助眠.首选",
+    "user_name": "最嗨电台丶怡声",
+    "game": "二次元"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/2855679_2113.jpg",
+    "person_num": "1万",
+    "title": "会卖萌的小狼人",
+    "user_name": "我是你敏哥哥啦",
+    "game": "狼人杀专区"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/338281_2101.jpg",
+    "person_num": "1万",
+    "title": "疯狗炼金：斗鱼第一炼金!",
+    "user_name": "疯狗炼金",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/57793_2100.jpg",
+    "person_num": "1万",
+    "title": "今天晚上好冷清！~",
+    "user_name": "regression丶赔钱货臭臭",
+    "game": "格斗游戏"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/30191_2100.jpg",
+    "person_num": "1万",
+    "title": "红色警戒大杂烩",
+    "user_name": "东北乱炖",
+    "game": "怀旧游戏"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/54738_2100.jpg",
+    "person_num": "1万",
+    "title": "【教主】组排进波前十",
+    "user_name": "带惩戒的教主",
+    "game": "绝地求生"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/34076_2100.jpg",
+    "person_num": "1万",
+    "title": "【翔凯】翔凯贝爷生存ep6",
+    "user_name": "末影龙协会丶翔凯",
+    "game": "我的世界"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/262831_2101.jpg",
+    "person_num": "1万",
+    "title": "可以打团啦 天空（坑） 恍惚刷起来",
+    "user_name": "修仙的小迪",
+    "game": "DNF"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/219408_2101.jpg",
+    "person_num": "1万",
+    "title": "2分钟1血！ 蛮王2天上钻",
+    "user_name": "douyu丶松子",
+    "game": "英雄联盟"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/669_2100.jpg",
+    "person_num": "2万",
+    "title": "唯王者共逐 Audi Sport 发布会",
+    "user_name": "斗鱼汽车官方直播间",
+    "game": "汽车"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/555050_2102.jpg",
+    "person_num": "2万",
+    "title": "”春风十里”说到底不是发春？？",
+    "user_name": "何仙姑夫工作室",
+    "game": "科普"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/571406_2102.jpg",
+    "person_num": "1万",
+    "title": "刘备:我叫MC啥都会",
+    "user_name": "姬丶日天",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/608431_2027.jpg",
+    "person_num": "2万",
+    "title": "歪？是歪果仁研究协会吗",
+    "user_name": "歪果仁研究协会official",
+    "game": "数码科技"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/691012_0507.jpg",
+    "person_num": "1.3万",
+    "title": "手机、笔记本、数码深度评测",
+    "user_name": "轻电科技",
+    "game": "数码科技"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/2017/09/02/668ac70c123bbf9f34ab335ca7b67c8e.jpg",
+    "person_num": "2万",
+    "title": "赛车家的直播间",
+    "user_name": "赛车家",
+    "game": "汽车"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/2264550_2110.jpg",
+    "person_num": "1.1万",
+    "title": "国服第一曹操 带粉躺好 24小时",
+    "user_name": "看泽",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/09/08/2f4e8181275d0c2e3d24268bf864fc2a.jpg",
+    "person_num": "1万",
+    "title": "萌萌初来乍到——请多关注",
+    "user_name": "伊乐zz",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/09/07/377c8ca858323088bf1c3a0db4b211f4.jpg",
+    "person_num": "2万",
+    "title": "黑丝美女数码评测",
+    "user_name": "嘿丝科技",
+    "game": "数码科技"
+}
+{
+    "img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif?v=v93471",
+    "person_num": "1万",
+    "title": "LV,爱马仕，MK，白老师测评",
+    "user_name": "白言Irenebaaai",
+    "game": "时尚"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/09/5036c098ed90030660b09e8b827b4636.png",
+    "person_num": "2万",
+    "title": "《青春疼痛我的女主角》系列~",
+    "user_name": "淘梦网官方",
+    "game": "科普"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/28/eba0ea4659b66a52f60e7ccc9f8f3231.jpg",
+    "person_num": "1.1万",
+    "title": "LV,GUCCI,爱马仕，涨姿势！",
+    "user_name": "鉴人闯",
+    "game": "时尚"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/25/c390ad909addc7abf726753011a11a69.jpg",
+    "person_num": "2.9万",
+    "title": "我没有女人和钱，只有家传的本事～",
+    "user_name": "传家本事",
+    "game": "科普"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/29/1787ced2a1e94b27d6cdbc757194e867.jpg",
+    "person_num": "3万",
+    "title": "客家女人的风情万种～",
+    "user_name": "一介视频",
+    "game": "科普"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/09/06/94908544148222b4d642d03ebfef592e.jpg",
+    "person_num": "3万",
+    "title": "进来吐槽你们的班主任吧～",
+    "user_name": "茶啊二中官方",
+    "game": "科普"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/09/05/56752a95ace3a5a0e91094effd6ca678.jpg",
+    "person_num": "1.9万",
+    "title": "国服第阿轲",
+    "user_name": "国民暖男苏苏",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/3020535_0450.jpg",
+    "person_num": "1.9万",
+    "title": "求关注，进群免费上分看公告",
+    "user_name": "烟晗",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/acrpic/170910/3037050_2050.jpg",
+    "person_num": "2.1万",
+    "title": "会唱歌的踹踹的直播间",
+    "user_name": "会唱歌的踹踹",
+    "game": "王者荣耀"
+}
+{
+    "img": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/09/08/99187497d4e7aa732abe969ac68bc289.jpg",
+    "person_num": "1.5万",
+    "title": "九九：国服貂蝉6翻了",
+    "user_name": "魔王九九",
+    "game": "王者荣耀"
+}
